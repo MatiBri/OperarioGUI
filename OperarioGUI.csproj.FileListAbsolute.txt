@@ -1,0 +1,20 @@
+c:\users\martin\documents\visual studio 2013\Projects\OperarioGUI\OperarioGUI\bin\Debug\OperarioGUI.exe.config
+c:\users\martin\documents\visual studio 2013\Projects\OperarioGUI\OperarioGUI\bin\Debug\OperarioGUI.exe
+c:\users\martin\documents\visual studio 2013\Projects\OperarioGUI\OperarioGUI\bin\Debug\OperarioGUI.pdb
+c:\users\martin\documents\visual studio 2013\Projects\OperarioGUI\OperarioGUI\obj\Debug\OperarioGUI.csprojResolveAssemblyReference.cache
+c:\users\martin\documents\visual studio 2013\Projects\OperarioGUI\OperarioGUI\obj\Debug\OperarioGUI.frmOperarios.resources
+c:\users\martin\documents\visual studio 2013\Projects\OperarioGUI\OperarioGUI\obj\Debug\OperarioGUI.Properties.Resources.resources
+c:\users\martin\documents\visual studio 2013\Projects\OperarioGUI\OperarioGUI\obj\Debug\OperarioGUI.csproj.GenerateResource.Cache
+c:\users\martin\documents\visual studio 2013\Projects\OperarioGUI\OperarioGUI\obj\Debug\OperarioGUI.exe
+c:\users\martin\documents\visual studio 2013\Projects\OperarioGUI\OperarioGUI\obj\Debug\OperarioGUI.pdb
+c:\users\martin\documents\visual studio 2013\Projects\OperarioGUI\OperarioGUI\obj\Debug\OperarioGUI.frmOperarios2.resources
+C:\Proyectos Visual Studio\Proyectos Forms\Ejemplo Herencia y Composicion\OperarioGUI\OperarioGUI\obj\Debug\OperarioGUI.csprojAssemblyReference.cache
+C:\Proyectos Visual Studio\Proyectos Forms\Ejemplo Herencia y Composicion\OperarioGUI\OperarioGUI\obj\Debug\OperarioGUI.frmOperarios.resources
+C:\Proyectos Visual Studio\Proyectos Forms\Ejemplo Herencia y Composicion\OperarioGUI\OperarioGUI\obj\Debug\OperarioGUI.Properties.Resources.resources
+C:\Proyectos Visual Studio\Proyectos Forms\Ejemplo Herencia y Composicion\OperarioGUI\OperarioGUI\obj\Debug\OperarioGUI.csproj.GenerateResource.cache
+C:\Proyectos Visual Studio\Proyectos Forms\Ejemplo Herencia y Composicion\OperarioGUI\OperarioGUI\obj\Debug\OperarioGUI.csproj.CoreCompileInputs.cache
+C:\Proyectos Visual Studio\Proyectos Forms\Ejemplo Herencia y Composicion\OperarioGUI\OperarioGUI\obj\Debug\OperarioGUI.exe
+C:\Proyectos Visual Studio\Proyectos Forms\Ejemplo Herencia y Composicion\OperarioGUI\OperarioGUI\obj\Debug\OperarioGUI.pdb
+C:\Proyectos Visual Studio\Proyectos Forms\Ejemplo Herencia y Composicion\OperarioGUI\OperarioGUI\bin\Debug\OperarioGUI.exe.config
+C:\Proyectos Visual Studio\Proyectos Forms\Ejemplo Herencia y Composicion\OperarioGUI\OperarioGUI\bin\Debug\OperarioGUI.exe
+C:\Proyectos Visual Studio\Proyectos Forms\Ejemplo Herencia y Composicion\OperarioGUI\OperarioGUI\bin\Debug\OperarioGUI.pdb
